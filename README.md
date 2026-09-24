@@ -14,5 +14,5 @@ Universal Game Audio Modder by Delta Studios
 ## 📥 How to Download
 To run Anchor without needing Python installed, head over to the **[Releases](https://github.com)** section on the right side of this page and download the pre-packaged `Anchor_Delta_Studios.rar` file!
 
-## 🎵 Restoring Music Files 
+### 🎵 Restoring Music Files (Important)
 if you want your music files back to normal , first copy your music files , then delete the modded ones , then paste them
